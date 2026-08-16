@@ -1,8 +1,7 @@
 # Parallel LU Factorization solver using OpenMP
 
-**Course Project:** ID5130 — Parallel Scientific Computing  
-**Authors:** Karthik Puranam & Abhinav Singh 
-**Date:** May 5, 2026 
+>**Course Project :** ID5130 — Parallel Scientific Computing  
+>**Authors :** Karthik Puranam & Abhinav Singh 
 
 
 ## Project Overview
